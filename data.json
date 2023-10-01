@@ -1,0 +1,25 @@
+{
+  "audioFilePath": "public/output_0.mp3",
+  "audioFileLengthInSeconds": 8,
+  "videoUrls": [
+    "https://player.vimeo.com/external/566112239.hd.mp4?s=c23d639320bfa877a40003f57e4f29d27859efa2&profile_id=170&oauth2_token_id=57447761",
+    "https://player.vimeo.com/external/562641366.hd.mp4?s=9b4aa93958bcc494434546f6bab7d9d54696a691&profile_id=172&oauth2_token_id=57447761",
+    "https://player.vimeo.com/external/454681363.sd.mp4?s=15227119e3116535a4d9097dd26f4b63417b45e2&profile_id=164&oauth2_token_id=57447761"
+  ],
+  "text": "Napoleon  once said, \"Chess is too difficult to be a game and not serious enough to be a science or an art.\", this is correct and theres nothing we can do... .",
+  "person": "Napoleon ",
+  "personImage": {
+    "type": "image/jpeg",
+    "width": 3079,
+    "height": 5135,
+    "size": 3562137,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+    "thumbnail": {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFewsc9DlHl7d_B_Sx77Rt6IE968uQctWvFt-zOVK4yb1nA7UKP1pM_o&s",
+      "width": 90,
+      "height": 150
+    },
+    "description": "Napoleon - Wikipedia",
+    "parentPage": "https://en.wikipedia.org/wiki/Napoleon"
+  }
+}
